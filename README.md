@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and backend programming 
 - 💞️ I’m looking to collaborate on AI and Machine learning 
 - 📫 How to reach me ... abdulhafizyerima1@gmail.com
-- 😄 Pronouns: ... I, Me, He
+- 😄 Pronouns: ... I, Me, He, You(singular)
 - ⚡ Fun fact: ... I love Coffee 
 
 <!---
